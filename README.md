@@ -1,4 +1,4 @@
-# This supplemental file contains the hybrid phasing and mode amplitude results and the inputs required to compute them.
+# Hybrid phasing and mode amplitude results.
 
 All the relevant quantities are stored in the following format:
 

@@ -22,7 +22,7 @@ v0byv &rarr; v0/v and
 
 ebyei &rarr; et/ei
 
-where, et is the time eccentricity and ei is some initial eccentricity defined in Ref.[Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043]). 
+where, et is the time eccentricity and ei is some initial eccentricity defined in Ref. [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043]). 
 
 
 

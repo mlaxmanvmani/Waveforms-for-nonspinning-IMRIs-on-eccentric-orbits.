@@ -2,12 +2,15 @@
 
 ### The hybrid phasing and mode amplitude results are computed through 5PN and e<sup>10</sup> order in eccentricty.
 
-This supplemental file contains the results which are partially given in the paper.
+This supplemental file contains the complete results which were partially presented in the paper.
 It contains expression for
 
-* Phasing inputs: time eccentricity evolution (e<sub>t</sub>), energy flux (F), energy (E) and its derivative (dE/dv) in terms of parameters v, v0, and e0.
+* Phasing inputs: time eccentricity evolution (e<sub>t</sub>), energy flux (F), energy (E) and its derivative (dE/dv).
 * Phasing results: TaylorT2 phase and time evolution and TaylorF2 SPA phase. 
+* Mode amplitudes: H<sup>lm</sup> mode amplitudes up to l=m=12.
+* PN evolution equation: de/dt, dv/dt and de/dt.  
 
+  
 All the relevant quantities are stored in the following format:
 
 

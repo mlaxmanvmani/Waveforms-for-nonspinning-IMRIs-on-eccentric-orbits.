@@ -6,5 +6,9 @@ All the relevant quantities are stored in the following format:
 
 e.g FHybrid[vpow,epow]
 
-where,
-vpow is the power of the PN terms and epow is the power of the eccentric terms.
+
+- `vpow` : Power of the post-Newtonian (PN) expansion parameter \( v \)  
+- `epow` : Power of the eccentricity expansion parameter \( e \)
+
+### Example
+

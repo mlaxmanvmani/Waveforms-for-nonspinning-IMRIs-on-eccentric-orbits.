@@ -18,11 +18,9 @@ FHybrid\[2,6\] represents the \(v<sup>2</sup> e<sup>6</sup>\) term.
 
 Note: We have used two symbols for phasing and mode results which can be replaced as:
 
-v0byv &rarr; v0/v and
+`v0byv &rarr; v0/v` and `ebyei &rarr; et/ei`
 
-ebyei &rarr; et/ei
-
-where, et is the time eccentricity and ei is some initial eccentricity defined in Ref. [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043]). 
+where, et is the time eccentricity and ei is some initial eccentricity defined in hereditary integrals of Ref. [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043]). 
 
 
 

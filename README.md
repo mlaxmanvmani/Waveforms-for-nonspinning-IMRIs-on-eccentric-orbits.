@@ -1,6 +1,10 @@
-## Hybrid phasing and mode amplitude results.
+## 5PN eccentric gravitational waveforms for IMRIs on inspiralling orbits. 
 
-### Description
+### The phasing and mode amplitude results are computed through 5PN and e<sup>10</sup> order in eccentricty.
+
+The supplemental file contains first the expressions for the phasing inputs which are eccentricity evolution (e<sub>t</sub>), energy flux (F), energy (E) and its derivative (dE/dv) in terms of parameters v, v0, and e0.
+
+Then it has 
 
 All the relevant quantities are stored in the following format:
 

@@ -16,10 +16,11 @@ where,
 
 FHybrid\[2,6\] represents the \(v<sup>2</sup> e<sup>6</sup>\) term.
 
-#### Note:
-We have used two symbols for phasing and mode results which can be replaced as:
+Note: We have used two symbols for phasing and mode results which can be replaced as:
 
-v0byv -> v0/v  and 
+v0byv &rarr; v0/v &
+
 ebyei -> et/ei
+
 
 

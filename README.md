@@ -9,10 +9,17 @@ All the relevant quantities are stored in the following format:
 
 where,
 
-- `vpow` : Power of the post-Newtonian (PN) expansion parameter \( v \)  
-- `epow` : Power of the eccentricity expansion parameter \( e or e<sub>0</sub>\)
+- vpow : Power of the post-Newtonian (PN) expansion parameter \( v \)  
+- epow : Power of the eccentricity expansion parameter \( e or e<sub>0</sub>\)
 
 ### Example
 
 FHybrid\[2,6\] represents the \(v<sup>2</sup> e<sup>6</sup>\) term.
+
+#### Note:
+We have used two symbols for phasing and mode results which can be replaced as:
+
+v0byv -> v0/v  and 
+ebyei -> et/ei
+
 

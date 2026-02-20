@@ -34,6 +34,6 @@ Note: We have used two symbols for PN parameters in phasing and mode results whi
 `v0byv -> v0/v` and `ebyei -> et/ei`
 
 
-where, et is the time eccentricity and ei is some initial eccentricity defined in the computation of hereditary integrals of Ref. [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043]). 
+where, ei is some initial eccentricity defined in the DC modes computation of hereditary integrals (see Ref. [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043])). 
 
 

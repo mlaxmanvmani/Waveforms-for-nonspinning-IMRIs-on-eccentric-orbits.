@@ -4,7 +4,7 @@
 
 All the relevant quantities are stored in the following format:
 
-e.g FHybrid\[vpow,epow\]
+FHybrid\[vpow,epow\], EnHybrid\[vpow,epow\]...etc
 
 
 - `vpow` : Power of the post-Newtonian (PN) expansion parameter \( v \)  
@@ -12,7 +12,5 @@ e.g FHybrid\[vpow,epow\]
 
 ### Example
 
-represents the coefficient multiplying \( v^6 e^2 \) in the hybrid expansion.
-
- v<sup>6</sup> e<sup>2</sup>.
+FHybrid\[2,6\] represents the \(v<sup>6</sup> e<sup>2</sup>\) term.
 

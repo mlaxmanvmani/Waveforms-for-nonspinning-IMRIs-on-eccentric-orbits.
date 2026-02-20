@@ -4,6 +4,8 @@
 
 All the relevant quantities are stored in the following format:
 
+<span style="color:blue">FHybrid[vpow, epow]</span>
+
 FHybrid\[vpow,epow\], EnHybrid\[vpow,epow\]...etc
 
 where,

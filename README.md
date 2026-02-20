@@ -23,9 +23,13 @@ where,
 
 ### Example
 
-FHybrid\[2,6\] represents the \(v<sup>2</sup> e<sup>6</sup>\) term multiplied with the appropriate newtonian factor.
+A 1PN accurate expression for energy flux can be obtained as 
 
-Note: We have used two symbols for phasing and mode results which can be replaced as:
+`FHybrid = (FHybrid[0,0] + FHybrid[2,0]) + (FHybrid[0,2] + FHybrid[2,2])`
+
+and then replacing "FcircNewt" with appropriate Newtonian factor. All the relevant Newtonian factor for different physical quantities can be obatained from [Moore et al](https://arxiv.org/abs/1605.00304)
+
+Note: We have used two symbols for PN parameters in phasing and mode results which can be replaced as:
 
 `v0byv -> v0/v` and `ebyei -> et/ei`
 

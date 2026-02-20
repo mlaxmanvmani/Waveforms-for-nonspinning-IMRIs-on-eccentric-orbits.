@@ -14,7 +14,7 @@ where,
 
 ### Example
 
-FHybrid\[2,6\] represents the \(v<sup>2</sup> e<sup>6</sup>\) term.
+FHybrid\[2,6\] represents the \(v<sup>2</sup> e<sup>6</sup>\) term multiplied with the appropriate newtonian factor.
 
 Note: We have used two symbols for phasing and mode results which can be replaced as:
 

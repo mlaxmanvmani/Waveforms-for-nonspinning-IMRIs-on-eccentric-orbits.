@@ -4,7 +4,7 @@
 
 All the relevant quantities are stored in the following format:
 
-e.g FHybrid[vpow,epow]
+e.g FHybrid\[vpow,epow\]
 
 
 - `vpow` : Power of the post-Newtonian (PN) expansion parameter \( v \)  

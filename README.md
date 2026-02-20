@@ -27,7 +27,7 @@ A 1PN accurate expression for energy flux can be obtained as
 
 `FHybrid = (FHybrid[0,0] + FHybrid[2,0]) + (FHybrid[0,2] + FHybrid[2,2])`
 
-and then replacing "FcircNewt" with appropriate Newtonian factor. All the relevant Newtonian factor for different physical quantities can be obatained from [Moore et al](https://arxiv.org/abs/1605.00304)
+and then replacing "FcircNewt" with appropriate Newtonian factor. All the relevant Newtonian factor for different physical quantities are given in the paper.
 
 Note: We have used two symbols for PN parameters in phasing and mode results which can be replaced as:
 

@@ -14,3 +14,5 @@ e.g FHybrid[vpow,epow]
 
 represents the coefficient multiplying \( v^6 e^2 \) in the hybrid expansion.
 
+ v<sup>6</sup> e<sup>2</sup>.
+

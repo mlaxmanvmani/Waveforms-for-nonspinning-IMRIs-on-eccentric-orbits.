@@ -5,7 +5,7 @@
 All the relevant quantities are stored in the following format:
 
 
-`FHybrid\[vpow,epow\]`, `EnHybrid\[vpow,epow\]`...etc
+`FHybrid[vpow,epow]`, `EnHybrid[vpow,epow]`...etc
 
 where,
 

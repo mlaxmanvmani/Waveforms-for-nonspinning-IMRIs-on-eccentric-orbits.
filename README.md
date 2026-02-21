@@ -13,7 +13,7 @@ It contains expression for
 Note: The phasing inputs and phasing results are computed in terms of PN parameters v, v0 and e0, while the mode amplitudes and PN evolution equations are computed in terms v and time eccentricity et.
 
 ### Loading the supplemental file
-The .m text file can be loaded into a Mathematica notebook simply using the in built "Get" command.
+The .m text file can be loaded into a Mathematica notebook using the built-in `Get` command.
   
 All the expressions are stored in the following format:
 

@@ -5,8 +5,8 @@
 This supplemental file contains the complete results which were partially presented in the paper.
 It contains expression for
 
-* Phasing inputs: time eccentricity evolution (et), energy flux (F), energy (E) and its derivative (dE/dv).
-* Phasing results: TaylorT2 phase and time evolution and TaylorF2 SPA phase. 
+* Phasing inputs: time eccentricity evolution, energy flux, orbital energy and its derivative.
+* Phasing results: TaylorT2 phase, TaylorT2 time and TaylorF2 SPA phase. 
 * Mode amplitudes: H<sup>lm</sup> mode amplitudes up to l=m=12.
 * PN evolution equation: de/dt, dv/dt and de/dt.
 
@@ -17,7 +17,7 @@ The .m text file can be loaded into a Mathematica notebook simply using the in b
   
 All the expressions are stored in the following format:
 
-`FHybrid[vpow,epow]`, `EnHybrid[vpow,epow]`...etc
+`EnergyFlux[vpow,epow]`, `Energy[vpow,epow]`...etc
 
 where,
 
@@ -28,9 +28,7 @@ where,
 
 A 1PN accurate expression for energy flux can be obtained as 
 
-`FHybrid = (FHybrid[0,0] + FHybrid[2,0]) + (FHybrid[0,2] + FHybrid[2,2])`
-
-and then replacing "FcircNewt" with appropriate Newtonian factor. All the relevant Newtonian factor for different physical quantities are given in the paper.
+`EnergyFlux = (EnergyFlux[0,0] + EnergyFlux[2,0]) + (EnergyFlux[0,2] + EnergyFlux[2,2])`
 
 Note: We have used two symbols for PN parameters in phasing and mode results which can be replaced as:
 

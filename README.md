@@ -7,7 +7,7 @@ It contains expression for
 
 * Phasing inputs: time eccentricity, energy flux, orbital energy and its derivative.
 * Phasing results: TaylorT2 phase, TaylorT2 time and TaylorF2 SPA phase. 
-* Mode amplitudes: H<sup>lm</sup> mode amplitudes up to l=m=12.
+* Mode amplitudes: Hlm mode amplitudes up to l=m=12.
 * PN evolution equation: de/dt, dv/dt and de/dt.
 
 Note: The phasing inputs and phasing results are computed in terms of PN parameters v, v0 and e0, while the mode amplitudes and PN evolution equations are computed in terms v and time eccentricity et.

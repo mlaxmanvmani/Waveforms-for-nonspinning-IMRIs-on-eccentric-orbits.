@@ -5,7 +5,7 @@
 This supplemental file contains the complete results which were partially presented in the paper.
 It contains expression for
 
-* Phasing inputs: time eccentricity evolution, energy flux, orbital energy and its derivative.
+* Phasing inputs: time eccentricity, energy flux, orbital energy and its derivative.
 * Phasing results: TaylorT2 phase, TaylorT2 time and TaylorF2 SPA phase. 
 * Mode amplitudes: H<sup>lm</sup> mode amplitudes up to l=m=12.
 * PN evolution equation: de/dt, dv/dt and de/dt.

@@ -7,12 +7,12 @@ It contains expression for
 
 * Phasing inputs: time eccentricity, energy flux, orbital energy and its derivative.
 * Phasing results: TaylorT2 phase, TaylorT2 time and TaylorF2 SPA phase. 
-* Mode amplitudes: $Hlm$ mode amplitudes up to $l=m=12$.
+* Mode amplitudes: $H\ell m$ mode amplitudes up to $\ell=m=12$.
 * PN evolution equation: $de/dt$, $dv/dt$, $de/dt$, true anomaly, mean motion and periastron precession.
 
 Note: The phasing inputs and phasing results are computed in terms of PN parameters $v$, $v0$ and $e0$, while the mode amplitudes and PN evolution equations are computed in terms $v$, time eccentricity $et$ and phase angle $\xi$.
 
-Also, note that the eccentrcity evolution ($et$) in the supplemental material is given in the eccentricity expanded format whereas in the paper we followed the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061) for the leading order eccentricity expression.   
+Also, note that the eccentrcity evolution ($et$) in the supplemental material is given in the eccentricity expanded format, whereas in the paper we followed the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061) for the leading order eccentricity expression.   
 ### Loading the supplemental file
 The .m text file can be loaded into a Mathematica notebook using the built-in `Get` command.
   

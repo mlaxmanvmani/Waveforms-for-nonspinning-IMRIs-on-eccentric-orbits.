@@ -12,6 +12,7 @@ It contains expression for
 
 Note: The phasing inputs and phasing results are computed in terms of PN parameters $v$, $v0$ and $e0$, while the mode amplitudes and PN evolution equations are computed in terms $v$, time eccentricity $et$ and phase angle $\xi$.
 
+Also, note that the eccentrcity evolution ($et$) in the supplemental material is given in the eccentricity expanded format whereas in the paper we followed the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061) for the leading order eccentricity expression.   
 ### Loading the supplemental file
 The .m text file can be loaded into a Mathematica notebook using the built-in `Get` command.
   
@@ -36,6 +37,3 @@ Note: We have used two symbols for PN parameters in phasing and mode results whi
 
 
 where, $ei$ is some initial eccentricity defined in the DC modes computation of hereditary integrals (see Ref. [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043])). 
-
-Note that eccentrcity evolution expression in the supplemental material is given in the eccentricity expanded format whereas in the paper we followed the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061) for the leading order eccentricity expression.   
-

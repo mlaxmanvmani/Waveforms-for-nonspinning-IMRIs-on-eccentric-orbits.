@@ -10,7 +10,7 @@ It contains expression for
 * Mode amplitudes: Hlm mode amplitudes up to l=m=12.
 * PN evolution equation: de/dt, dv/dt, de/dt, true anomaly, mean motion and periastron precession.
 
-Note: The phasing inputs and phasing results are computed in terms of PN parameters v, v0 and e0, while the mode amplitudes and PN evolution equations are computed in terms v and time eccentricity et.
+Note: The phasing inputs and phasing results are computed in terms of PN parameters v, v0 and e0, while the mode amplitudes and PN evolution equations are computed in terms v, time eccentricity et and phase angle $\xi$.
 
 ### Loading the supplemental file
 The .m text file can be loaded into a Mathematica notebook using the built-in `Get` command.

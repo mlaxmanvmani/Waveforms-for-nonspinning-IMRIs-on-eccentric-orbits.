@@ -2,13 +2,13 @@
 
 ### The hybrid phasing and mode amplitude results are computed through 5PN and e<sup>10</sup> order in eccentricty.
 
-This supplemental file contains the complete results which were partially presented in the paper.
+This supplemental file contains the complete results which are partially presented in the paper.
 It contains expression for
 
 * Phasing inputs: time eccentricity, energy flux, orbital energy and its derivative.
 * Phasing results: TaylorT2 phase, TaylorT2 time and TaylorF2 SPA phase. 
 * Mode amplitudes: Hlm mode amplitudes up to l=m=12.
-* PN evolution equation: de/dt, dv/dt and de/dt.
+* PN evolution equation: de/dt, dv/dt, de/dt, true anomaly, mean motion and periastron precession.
 
 Note: The phasing inputs and phasing results are computed in terms of PN parameters v, v0 and e0, while the mode amplitudes and PN evolution equations are computed in terms v and time eccentricity et.
 

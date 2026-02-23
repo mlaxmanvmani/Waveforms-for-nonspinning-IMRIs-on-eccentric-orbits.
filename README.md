@@ -10,7 +10,7 @@ It contains expression for
 * Mode amplitudes: $H\ell m$ mode amplitudes up to $\ell=m=12$.
 * PN evolution equation: $de/dt$, $dv/dt$, $de/dt$, true anomaly, mean motion and periastron precession.
 
-Note: The phasing inputs and phasing results are computed in terms of PN parameters $v$, $v0$ and $e0$, while the mode amplitudes and PN evolution equations are computed in terms $v$, time eccentricity $et$ and phase angle $\xi$.
+Note: The phasing inputs and phasing results are computed in terms of PN parameters $v$, $v0$ and $e0$, while the mode amplitudes and PN evolution equations are computed in terms $v$, time eccentricity $et$ and phase angles $l$ and $\xi$.
 
 Also, note that the eccentrcity evolution ($et$) in the supplemental material is given in the eccentricity expanded format, whereas in the paper we followed the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061) for the leading order eccentricity expression.   
 ### Loading the supplemental file

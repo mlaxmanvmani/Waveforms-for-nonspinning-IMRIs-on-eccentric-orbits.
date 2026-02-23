@@ -12,7 +12,7 @@ It contains expression for
 
 Note: The phasing inputs and phasing results are computed in terms of PN parameters $v$, $v_0$ and $e_0$, while the mode amplitudes and PN evolution equations are computed in terms $v$, time eccentricity $e_t$ and phase angles $l$ and $\xi$.
 
-Also, note that the eccentrcity evolution ($e_t$) in the supplemental material is given in the eccentricity expanded format, whereas in the paper we followed the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061) for the leading order eccentricity expression.   
+Also, note that the expression for time eccentrcity ($e_t$) in the supplemental material is given in the eccentricity expanded format, whereas in the paper we followed the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061) for the leading order eccentricity expression.   
 ### Loading the supplemental file
 The .m text file can be loaded into a Mathematica notebook using the built-in `Get` command.
   

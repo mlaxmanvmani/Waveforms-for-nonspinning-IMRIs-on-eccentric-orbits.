@@ -1,6 +1,6 @@
 ## 5PN eccentric waveforms for intermediate-mass-ratio-inspirals (IMRIs) from post-Newtonian and black hole perturbation theory 
 
-Lists GW Phasing (Taylor approxinants) and Amplitude (spherical harmonics) computed through 5PN and $10^{\rm th}$ in the time-eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
+Lists GW Phasing (Taylor approximants) and Amplitude (spherical harmonics) computed through 5PN and $10^{\rm th}$ in the time-eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
 
 * Phasing inputs: time-eccentricity, energy flux, orbital energy and its derivative. 
 * Phasing results: TaylorT2 phase, TaylorT2 time and TaylorF2 SPA phase. 

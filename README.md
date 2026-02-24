@@ -30,7 +30,7 @@ A 1PN accurate expression for energy flux can be obtained as
 
 Note: We have used two symbols for PN parameters in phasing and mode results which can be replaced as:
 
-`v0byv -> v0/v` and `ebyei -> et/ei`
+`v0byv -> v_0/v` and `ebyei -> et/e_i`
 
 
 where, $e_i$ is another reference eccentricity that appears in the computation of memory integrals leading to zero frequency ($m=0$ modes) contributions; see for instance, Ref. [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043]). 

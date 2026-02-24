@@ -1,14 +1,11 @@
-## 5PN eccentric gravitational waveforms for IMRIs on inspiralling orbits. 
+## 5PN eccentric waveforms for intermediate-mass-ratio-inspirals (IMRIs) from post-Newtonian and black hole perturbation theory 
 
-### The hybrid phasing and mode amplitude results are computed through 5PN and $e^{10}$ order in eccentricty.
+Lists GW Phasing (Taylor approxinants) and Amplitude (spherical harmonics) computed through 5PN and $10^{\rm th}$ in the time-eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
 
-This supplemental file contains the complete results which are partially presented in the paper.
-It contains expression for
-
-* Phasing inputs: time eccentricity, energy flux, orbital energy and its derivative.
+* Phasing inputs: time-eccentricity, energy flux, orbital energy and its derivative. 
 * Phasing results: TaylorT2 phase, TaylorT2 time and TaylorF2 SPA phase. 
 * Mode amplitudes: $H\ell m$ mode amplitudes up to $\ell=m=12$.
-* PN evolution equation: $de/dt$, $dv/dt$, $de/dt$, true anomaly, mean motion and periastron precession.
+* PN evolution equation: $de/dt$, $dv/dt$, $de/dt$, true anomaly, mean motion ($n$) and the constant $k$ characterising orbital precession.
 
 Note: The phasing inputs and phasing results are computed in terms of PN parameters $v$, $v_0$ and $e_0$, where $e_0$ is the initial eccentricity defined at an intial frequency related parameter $v_0$, whereas the mode amplitudes and PN evolution equations are computed in terms $v$, time eccentricity $e_t$ and phase angles $l$ and $\xi$.
 

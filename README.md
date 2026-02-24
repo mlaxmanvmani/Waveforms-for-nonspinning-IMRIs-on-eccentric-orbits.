@@ -1,15 +1,15 @@
 ## 5PN eccentric waveforms for intermediate-mass-ratio-inspirals (IMRIs) from post-Newtonian and black hole perturbation theory 
 
-Lists GW Phasing (Taylor approximants) and Amplitude (spherical harmonics) computed through 5PN and $10^{\rm th}$ in the time-eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
+The supplemental file ([name of the file]) lists Gravitational Wave Phasing (Taylor approxinants) and Amplitude (spherical harmonic modes) computed through 5PN order and to $10^{\rm th}$ in the eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
 
-* Phasing inputs: time-eccentricity, energy flux, orbital energy and its derivative. 
-* Phasing results: TaylorT2 phase, TaylorT2 time and TaylorF2 SPA phase. 
-* Mode amplitudes: $H\ell m$ mode amplitudes up to $\ell=m=12$.
-* PN evolution equation: $de/dt$, $dv/dt$, $de/dt$, true anomaly, mean motion ($n$) and the constant $k$ characterising orbital precession.
+* Evolution of time-eccentricity: $e_t(v, v_0, e_0)$, where $v$ is a frequency dependent PN parameter and $e_0$ refers to a reference eccentricity evaluated at a reference frequency ($v_0$).
+* EnergyFlux, Energy and its derivative ($dE/dv$) in terms of $v, v_0, e_0$.
+* Phasing: TaylorT2, TaylorF2 as explicit functions of $v, v_0, e_0$.
+* Amplitude: $H^{\ell m}$ with $2\leq\ell\leq12$ and $0\leq|m|\leq12$ in terms of the time-eccentricity ($e_t$), the PN parameter ($v$) and an angle $\xi$ related to mean-anomaly.
+* Orbit averaged evolution equations for the time-eccentricity ($e_t$) and the PN parameter ($v$): $de/dt$, $dv/dt$, $de/dt$ in terms of the time-eccentricity ($e_t$), the PN parameter ($v$).
+* Other orbital elements: true anomaly($\nu$), mean motion ($n$) and the constant $k$ characterising orbital precession as a function of the time-eccentricity ($e_t$), the PN parameter ($v$). 
 
-Note: The phasing inputs and phasing results are computed in terms of PN parameters $v$, $v_0$ and $e_0$, where $e_0$ is the initial eccentricity defined at an intial frequency related parameter $v_0$, whereas the mode amplitudes and PN evolution equations are computed in terms $v$, time eccentricity $e_t$ and phase angles $l$ and $\xi$.
-
-Also, note that the expression for time eccentrcity ($e_t$) in the supplemental material is given in the eccentricity expanded format, whereas in the paper we followed the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061) for the leading order eccentricity expression.   
+NOTE: The time-eccentrcity ($e_t$) is written in a form that is fully expanded in eccentricity, whereas the preprint ([arXiv reference]) follows the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061).   
 ### Loading the supplemental file
 The .m text file can be loaded into a Mathematica notebook using the built-in `Get` command.
   
@@ -20,7 +20,7 @@ All the expressions are stored in the following format:
 where,
 
 - vpow : Power of the post-Newtonian (PN) expansion parameter $(v)$  
-- epow : Power of the eccentricity expansion parameter ($e$ or $e_0$)
+- epow : Power of the eccentricity expansion parameter ($e_t$ or $e_0$)
 
 ### Example
 

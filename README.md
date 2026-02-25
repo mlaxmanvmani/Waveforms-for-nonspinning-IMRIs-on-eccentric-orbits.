@@ -6,8 +6,8 @@ The supplemental file (supplemental_material_arxiv:2602.21018v1.m) lists Gravita
 * EnergyFlux, Energy and its derivative ($dE/dv$) in terms of $v, v_0, e_0$.
 * Phasing: TaylorT2, TaylorF2 as explicit functions of $v, v_0, e_0$.
 * Amplitude: $H^{\ell m}$ with $2\leq\ell\leq12$ and $0\leq|m|\leq12$ in terms of the time-eccentricity ($e_t$), the PN parameter ($v$) and an angle $\xi$ related to mean-anomaly.
-* Orbit averaged evolution equations for the time-eccentricity ($e_t$) and the PN parameter ($v$): $de/dt$, $dv/dt$, $de/dt$ in terms of the time-eccentricity ($e_t$), the PN parameter ($v$).
-* Other orbital elements: true anomaly($\nu$), mean motion ($n$) and the constant $k$ characterising orbital precession as a function of the time-eccentricity ($e_t$), the PN parameter ($v$). 
+* Orbit averaged evolution equations for the time-eccentricity ($e_t$) and the PN parameter ($v$): $de/dt$, $dv/dt$, $de_t/dv$ in terms of the time-eccentricity ($e_t$), the PN parameter ($v$).
+* Other orbital elements: true anomaly($\nu$), mean motion ($n$) and the constant $k$ characterising orbital precession as a function of the time-eccentricity ($e_t$), and the PN parameter ($v$). 
 
 NOTE: The time-eccentrcity ($e_t$) is written in a form that is fully expanded in eccentricity, whereas the preprint [Laxman et al, 2026](https://arxiv.org/abs/2602.21018v1) follows the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061).   
 ### Loading the supplemental file
@@ -33,4 +33,4 @@ Note: We have used two symbols for PN parameters in phasing and mode results whi
 `v0byv -> v_0/v` and `ebyei -> et/e_i`
 
 
-where, $e_i$ is another reference eccentricity that appears in the computation of memory integrals leading to zero frequency ($m=0$ modes) contributions; see for instance, Ref. [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043]). 
+where, $e_i$ is another reference eccentricity that appears in the computation of memory integrals leading to zero frequency ($m=0$ modes) contributions; see for instance, [Ebersold et al](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.100.084043]). 

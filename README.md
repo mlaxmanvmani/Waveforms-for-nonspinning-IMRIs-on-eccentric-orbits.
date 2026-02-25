@@ -1,6 +1,6 @@
 ## 5PN eccentric waveforms for intermediate-mass-ratio-inspirals (IMRIs) from post-Newtonian and black hole perturbation theory 
 
-The supplemental file ([supplemental_material_arxiv:2602.21018v1]) lists Gravitational Wave Phasing (Taylor approximants) and Amplitude (spherical harmonic modes) computed through 5PN order and to $10^{\rm th}$ power in the eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
+The supplemental file (supplemental_material_arxiv:2602.21018v1.m) lists Gravitational Wave Phasing (Taylor approximants) and Amplitude (spherical harmonic modes) computed through 5PN order and to $10^{\rm th}$ power in the eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
 
 * Evolution of time-eccentricity: $e_t(v, v_0, e_0)$, where $v$ is a frequency dependent PN parameter and $e_0$ refers to a reference eccentricity evaluated at a reference frequency ($v_0$).
 * EnergyFlux, Energy and its derivative ($dE/dv$) in terms of $v, v_0, e_0$.

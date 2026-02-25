@@ -9,7 +9,7 @@ The supplemental file ([supplemental_material_arxiv:2602.21018v1]) lists Gravita
 * Orbit averaged evolution equations for the time-eccentricity ($e_t$) and the PN parameter ($v$): $de/dt$, $dv/dt$, $de/dt$ in terms of the time-eccentricity ($e_t$), the PN parameter ($v$).
 * Other orbital elements: true anomaly($\nu$), mean motion ($n$) and the constant $k$ characterising orbital precession as a function of the time-eccentricity ($e_t$), the PN parameter ($v$). 
 
-NOTE: The time-eccentrcity ($e_t$) is written in a form that is fully expanded in eccentricity, whereas the [preprint](https://arxiv.org/abs/2602.21018v1) follows the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061).   
+NOTE: The time-eccentrcity ($e_t$) is written in a form that is fully expanded in eccentricity, whereas the preprint [Laxman et al, 2026](https://arxiv.org/abs/2602.21018v1) follows the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061).   
 ### Loading the supplemental file
 The .m text file can be loaded into a Mathematica notebook using the built-in `Get` command.
   

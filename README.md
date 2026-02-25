@@ -1,6 +1,6 @@
 ## 5PN eccentric waveforms for intermediate-mass-ratio-inspirals (IMRIs) from post-Newtonian and black hole perturbation theory 
 
-The supplemental file ([name of the file]) lists Gravitational Wave Phasing (Taylor approximants) and Amplitude (spherical harmonic modes) computed through 5PN order and to $10^{\rm th}$ power in the eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
+The supplemental file ([supplemental_material_arxiv:2602.21018v1]) lists Gravitational Wave Phasing (Taylor approximants) and Amplitude (spherical harmonic modes) computed through 5PN order and to $10^{\rm th}$ power in the eccentricity parameter. Inputs required to arrive at the final results are also included. More specifically,   
 
 * Evolution of time-eccentricity: $e_t(v, v_0, e_0)$, where $v$ is a frequency dependent PN parameter and $e_0$ refers to a reference eccentricity evaluated at a reference frequency ($v_0$).
 * EnergyFlux, Energy and its derivative ($dE/dv$) in terms of $v, v_0, e_0$.
@@ -9,7 +9,7 @@ The supplemental file ([name of the file]) lists Gravitational Wave Phasing (Tay
 * Orbit averaged evolution equations for the time-eccentricity ($e_t$) and the PN parameter ($v$): $de/dt$, $dv/dt$, $de/dt$ in terms of the time-eccentricity ($e_t$), the PN parameter ($v$).
 * Other orbital elements: true anomaly($\nu$), mean motion ($n$) and the constant $k$ characterising orbital precession as a function of the time-eccentricity ($e_t$), the PN parameter ($v$). 
 
-NOTE: The time-eccentrcity ($e_t$) is written in a form that is fully expanded in eccentricity, whereas the preprint ([arXiv reference]) follows the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061).   
+NOTE: The time-eccentrcity ($e_t$) is written in a form that is fully expanded in eccentricity, whereas the [preprint](https://arxiv.org/abs/2602.21018v1) follows the format of [Moore et al, 2016](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.93.124061).   
 ### Loading the supplemental file
 The .m text file can be loaded into a Mathematica notebook using the built-in `Get` command.
   
